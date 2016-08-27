@@ -1,4 +1,4 @@
-[![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png)](https://pogodev.org)
+[![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png?raw=true)](https://pogodev.org)
 
 # assets [![license](https://img.shields.io/github/license/pogodevorg/assets.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/assets/blob/master/LICENSE)
 
