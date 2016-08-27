@@ -14,7 +14,7 @@
 * [Credits](#credits)
 
 ## What is it?
-`assets` is an open source repository where we (@PogoDev) keep all our reference material that is used across our different sites.
+`assets` is an open source repository where we (@PogoDev) keep all our reference and public media material that is used across our different sites and projects.
 
 ## Installation
     git clone https://github.com/pogodevorg/assets.git
@@ -23,7 +23,7 @@
     None
 
 ## Licensing
-[GNU GPL](https://github.com/pogodevorg/assets/blob/master/LICENSE), v3 or later.
+[GNU GPL](https://github.com/pogodevorg/assets/blob/master/LICENSE) v3 or later.
 
 ### Third Party Licenses
     None
