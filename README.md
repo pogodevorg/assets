@@ -41,5 +41,7 @@ Currently, you can contribute to this project by:
 
 * [![Build Status](https://github.com/Lisiano256.png?size=36) - Lisiano256](https://github.com/Lisiano256)
 
+* [![Build Status](https://github.com/hamue.png?size=36) - hamue](https://github.com/hamue)
+
 ## Credits
     None
