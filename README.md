@@ -3,7 +3,6 @@
 # assets [![license](https://img.shields.io/github/license/pogodevorg/assets.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/assets/blob/master/LICENSE)
 
 ## Table of Contents
-
 * [What is it?](#what-is-it)
 * [Installation](#installation)
 * [Documentation](#documentation)
